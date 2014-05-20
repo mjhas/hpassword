@@ -1,0 +1,12 @@
+debian/hpassword
+debian/*.debhelper
+debian/*.debhelper.log
+debian/*.substvars
+debian/files
+build-stamp
+configure-stamp
+*.war
+.classpath
+.settings
+target
+.project

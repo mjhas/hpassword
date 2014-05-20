@@ -1,0 +1,13 @@
+usr/share/hpassword
+
+#CATALINA_BASE
+var/lib/hpassword
+var/lib/hpassword/temp
+var/lib/hpassword/webapps
+var/lib/hpassword/work
+#Config Files
+etc/htpassword
+etc/htpassword/policy.d
+#Log Files
+var/log/hpassword
+

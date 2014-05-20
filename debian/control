@@ -1,0 +1,13 @@
+Source: hpassword
+Section: java
+Priority: optional
+Maintainer: Michael Haslgrübler <work-michael@haslgruebler.eu>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+Homepage: https://haslgruebler.eu/password
+
+Package: hpassword
+Architecture: all
+Depends: ${misc:Depends}, adduser, psmisc, tomcat7-common, java7-runtime-headless
+Description: Password Changing Application written in Java
+ hpassword is a password changing application written in Java.
