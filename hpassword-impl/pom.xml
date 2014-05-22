@@ -3,7 +3,7 @@
     <parent>
         <groupId>eu.haslgruebler.hpassword</groupId>
         <artifactId>hpassword</artifactId>
-        <version>0.1</version>
+        <version>0.2-SNAPSHOT</version>
     </parent>
     <artifactId>hpassword-dao</artifactId>
     <name>hpassword IMPL</name>
@@ -16,7 +16,7 @@
         <dependency>
             <groupId>eu.haslgruebler.hpassword</groupId>
             <artifactId>hpassword-api</artifactId>
-            <version>0.1</version>
+            <version>0.2-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.data</groupId>

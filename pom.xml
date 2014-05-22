@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>eu.haslgruebler.hpassword</groupId>
     <artifactId>hpassword</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
     <name>hpassword root</name>
     <packaging>pom</packaging>
     <parent>
